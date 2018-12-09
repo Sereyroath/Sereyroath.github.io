@@ -18,4 +18,4 @@ ul:hover li{display:block;background-COLOR:black;}
 ul li:hover{background:green;}
 a{color:inherit;
 text-decoration:none;
-cursor: pointer;}
+}
