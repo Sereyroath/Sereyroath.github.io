@@ -12,7 +12,5 @@ font: size 20px;
 font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 ul li {display:block;}
 li{display:none;}
-.z{display:none;}
 ul:hover li{display:block;background: black}
 ul li:hover{background:green;}
-.z{display:none;}
