@@ -1,0 +1,16 @@
+h1{background:black;color:white;text-align: center}
+h2{text-align: center;}
+ul{background:black;color:white;margin: 0px;
+padding:0px;
+list-style:none;
+opacity: .8;float: left;
+height:20px;
+width:25%; 
+}
+ul li{text-align:center;
+font: size 20px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+ul li {display:block;}
+li{display:none;}
+ul:hover li{display:block;background: black}
+ul li:hover{background:green;}
