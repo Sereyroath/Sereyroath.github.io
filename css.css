@@ -1,8 +1,8 @@
 
-h1{background:black;color:white;text-align: center}
+h1{background:rgb(122, 66, 66);color:white;text-align: center}
 h2{text-align: center;
 }
-ul{background:black;color:white;margin: 0px;
+ul{background:rgb(122, 66, 66);color:white;margin: 0px;
 padding:0px;
 list-style:none;
 opacity:.8;float: left;
@@ -16,7 +16,7 @@ ul li {display: block;}
 .a{display:inline-block;}
 .a {display:none;
 transition: 0.2 linear;}
-ul:hover li{display:block;background-COLOR:black;}
+ul:hover li{display:block;background-COLOR:rgb(146, 84, 84);}
 ul li:hover{background:green;}
 a{color:inherit;
 text-decoration:none;
